@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Get access token for Google Search Console",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
